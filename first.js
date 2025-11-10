@@ -3,3 +3,5 @@ function PrintName(str) {
 }
 const name = PrintName("mayur");
 console.log(name);
+
+console.log('hello')
